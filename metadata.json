@@ -1,0 +1,7 @@
+{
+  "name": "CrossMind AI",
+  "description": "Evidence-First Zero-Shot Multimodal Reasoning & Verification",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
